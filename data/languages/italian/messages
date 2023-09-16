@@ -11,9 +11,9 @@
 "53","INFETTO"   
 "54","SCANSIONATO"  
 "55","CONTENTMOD"    # needs translation
-"56","URLMOD"    # needs translation
-"57","HEADERMOD"    # needs translation
-"58","HEADERADD"    # needs translation
+"56","URL MODIFICATO"    
+"57","HEADER MODIFICATO"    
+"58","HEADER AGGIUNTO"   
 "59","ERRORE DI RETE"   
 "60","SEMI-FIDATO"    
 "70","SITO SSL"   
